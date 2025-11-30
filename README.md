@@ -4,8 +4,8 @@
 I am beggining Front-end Developer. My journey began in April 2025. At the moment I am self-studying and studying at the Altai State University.
 I want to become a professional and I love to develop not only in my main area of ​​front-end development.
 ### My bio:
-<a href="https://t.me/red3086" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/red3086-brightgreen?style=for-the-badge&logo=telegram&logoColor=black&logoSize=amd&color=blue">
+<a href="https://t.me/qwizzit" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/qwizzit-brightgreen?style=for-the-badge&logo=telegram&logoColor=black&logoSize=amd&color=blue">
 </a>
 
 <a href="https://vk.com/red308" target="_blank">
